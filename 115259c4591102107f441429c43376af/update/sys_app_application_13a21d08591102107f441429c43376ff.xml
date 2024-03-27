@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>Para subir cambios a github</description>
+        <device_type>browser</device_type>
+        <hint>Para subir cambios a github</hint>
+        <name/>
+        <order/>
+        <roles>admin</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-27 13:47:22</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>13a21d08591102107f441429c43376ff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Conexion</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Conexion" source="115259c4591102107f441429c43376af">115259c4591102107f441429c43376af</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Conexion">115259c4591102107f441429c43376af</sys_scope>
+        <sys_update_name>sys_app_application_13a21d08591102107f441429c43376ff</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-27 13:47:22</sys_updated_on>
+        <title>Conexion</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
